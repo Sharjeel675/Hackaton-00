@@ -21,6 +21,7 @@ const Page = async () => {
     .execute() as { resources: MyImage[] };
 
   return (
+    
     <>
       <div className=' py-5 px-4 flex items-center justify-between'>
         <h2 className=" text-3xl font-semibold tracking-tight">
