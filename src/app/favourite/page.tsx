@@ -1,5 +1,6 @@
 import React from 'react'
 import { Button } from '@/components/ui/button'
+{/* ts ignore */}
 import cloudinary from 'cloudinary';
 import View from '../Gallery/View';
 import Favouritelist from './favouritelist';
